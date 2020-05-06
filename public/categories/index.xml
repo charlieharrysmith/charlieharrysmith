@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Charlie Harry Smith</title>
+    <link>http://www.chsmith.co.uk/categories/</link>
+    <description>Recent content in Categories on Charlie Harry Smith</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Jun 2017 04:03:02 +0800</lastBuildDate>
+    
+	<atom:link href="http://www.chsmith.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Philosophising</title>
+      <link>http://www.chsmith.co.uk/categories/philosophising/</link>
+      <pubDate>Fri, 09 Jun 2017 04:03:02 +0800</pubDate>
+      
+      <guid>http://www.chsmith.co.uk/categories/philosophising/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>http://www.chsmith.co.uk/categories/writing/</link>
+      <pubDate>Fri, 09 Jun 2017 04:03:02 +0800</pubDate>
+      
+      <guid>http://www.chsmith.co.uk/categories/writing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual</title>
+      <link>http://www.chsmith.co.uk/categories/visual/</link>
+      <pubDate>Fri, 22 Jul 2016 12:52:09 +0800</pubDate>
+      
+      <guid>http://www.chsmith.co.uk/categories/visual/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
