@@ -1,3 +1,0 @@
-# charlieharrysmith
-## Charlie Harry Smith's Personal Site Repo
-Very much a work in progress and place for experimentation...
