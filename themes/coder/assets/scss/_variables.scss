@@ -1,11 +1,11 @@
 // Fonts
-$text-font-family: Merriweather, Georgia, serif;
-$heading-font-family: Lato, Helvetica, sans-serif;
+$text-font-family: 'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
+$heading-font-family: 'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
 $code-font-family: 'Source Code Pro', 'Lucida Console', monospace;
 
 // Colors
 $bg-color: #FAFAFA !default;
-$fg-color: #212121 !default;
+$fg-color: #2a2b2c !default;
 $alt-bg-color: #E0E0E0 !default;
 $alt-fg-color: #000 !default;
 $link-color: #3b9696 !default;
@@ -15,4 +15,4 @@ $bg-color-dark: #212121 !default;
 $fg-color-dark: #dadada !default;
 $alt-bg-color-dark: #424242 !default;
 $alt-fg-color-dark: #dadada !default;
-$link-color-dark: #42a5f5 !default;
+$link-color-dark: #3b9696 !default;

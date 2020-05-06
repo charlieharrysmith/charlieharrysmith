@@ -1,4 +1,4 @@
-<section class="container centered">
+<section class="container centered list">
   <div class="about">
     {{ if and (isset .Site.Params "avatarurl") (not (isset .Site.Params "gravatar")) }}
       {{ with .Site.Params.avatarurl }}
@@ -27,5 +27,10 @@
       {{ end }}
     </ul>
     {{ end }}
+  </div>
+  <div class="shortbio">
+    <article>
+        {{ .Content }}
+    </article>
   </div>
 </section>

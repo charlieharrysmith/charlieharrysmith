@@ -18,7 +18,7 @@ disqusShortname = "yourdiscussshortname"
 [params]
     author = "Charlie Harry Smith"
     description = "DPhil Student at the Oxford Internet Institute"
-    keywords = "blog,OII,charlieharrysmith,"
+    keywords = "blog,OII,charlieharrysmith,digital identity"
     info = "DPhil Student at the Oxford Internet Institute"
     avatarurl = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
@@ -41,7 +41,7 @@ disqusShortname = "yourdiscussshortname"
     # "auto" (use preference set by browser)
     # "dark" (dark background, light foreground)
     # "light" (light background, dark foreground) (default)
-    colorscheme = "auto"
+    colorscheme = "light"
 
     # Series see also post count
     maxSeeAlsoItems = 5
@@ -67,17 +67,17 @@ disqusShortname = "yourdiscussshortname"
   [[params.social]]
       name = "ORCiD"
       icon = "fab fa-orcid"
-      weight = 1
+      weight = 3
       url = "https://orcid.org/0000-0001-9832-1723"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter"
-    weight = 2
+    weight = 1
     url = "https://twitter.com/charliehrysmith/"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
-    weight = 3
+    weight = 2
     url = "https://uk.linkedin.com/in/charlieharrysmith"
 [[params.social]]
     name = "Medium"
@@ -92,6 +92,9 @@ disqusShortname = "yourdiscussshortname"
     rel = "alternate"
     type = "application/rss+xml"
 
+[[params.eduction]]
+        name = "Education"
+        icon = "fab fa-graduation-cap"
 
 [languages]
     [languages.en]
@@ -106,12 +109,12 @@ disqusShortname = "yourdiscussshortname"
 
             [[languages.en.menu.main]]
             name = "Blog"
-            weight = 2
+            weight = 3
             url = "posts/"
 
             [[languages.en.menu.main]]
             name = "Research"
-            weight = 3
+            weight = 2
             url = "research/"
 
             [[languages.en.menu.main]]

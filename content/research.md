@@ -31,6 +31,7 @@ Smith, C. (2017). Orwellian Nationalism as the Liberal Democratic Convention. Cr
 * Presented ‘The Tesla Problem: Trolleys, Proximity, and Duty’ at the ‘Southampton Undergraduate Philosophy Conference’ (2018, Southampton)
 * Presented ‘Orwellian Nationalism as the Liberal Democratic Convention’ at the ‘Durham Philosophy Society’s Undergraduate Conference’ (2017, Durham)
 
+* Attended 'Westminster eForum: Biometrics and Digital Identity' (2020, Online)
 * Attended ‘The Ethics and Politics of Online Interaction’ (2019, Oxford)
 * Attended ‘Privacy in the New Public Sphere, its Value and its Threats’ (2018, London)
 * Attended ‘Tracking People: Looking to the Future’ (2017, Leeds/London)
